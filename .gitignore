@@ -1,0 +1,14 @@
+# Cartelle di build e file temporanei (senza la / iniziale coprono tutto il progetto)
+build/
+.gradle/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Configurazioni locali di Android Studio
+local.properties
+.idea/
+*.iml
+
+# File di sistema
+.DS_Store

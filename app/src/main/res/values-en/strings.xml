@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyBackRec</string>
+    <string name="btn_start">Start Recording</string>
+    <string name="btn_save">Freeze and Save</string>
+    <string name="btn_stop">Stop Recording</string>
+    <string name="btn_share">Share</string>
+    <string name="listening">Listening...</string>
+    <string name="save_complete">Save complete!</string>
+    <string name="insert_duration">Insert buffer duration</string>
+    <string name="share_title">Send recording to...</string>
+    <string name="no_file">No file found</string>
+</resources>

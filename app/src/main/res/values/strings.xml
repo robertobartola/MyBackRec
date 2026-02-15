@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyBackRec</string>
+    <string name="btn_start">Avvia Registrazione</string>
+    <string name="btn_save">Congela e Salva</string>
+    <string name="btn_stop">Stop Definitivo</string>
+    <string name="btn_share">Condividi</string>
+    <string name="listening">In ascolto...</string>
+    <string name="save_complete">Salvataggio completato!</string>
+    <string name="insert_duration">Inserisci durata buffer</string>
+    <string name="share_title">Invia registrazione a...</string>
+    <string name="no_file">Nessun file trovato</string>
+</resources>
