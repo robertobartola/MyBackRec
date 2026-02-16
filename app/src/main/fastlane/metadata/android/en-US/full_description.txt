@@ -1,0 +1,3 @@
+The application runs in background recording the audio heared in a circular buffer of a user defined dimension (in seconds).
+When the user wants to store the last seconds, just press a button that saves in a wave file the last seconds audio and continues registering until the user selects to stop.
+The saved audio can be stored in the phone and/or shared

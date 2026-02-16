@@ -1,0 +1,3 @@
+L'applicazione funziona in background e registra l'audio in un buffer circolare di dimensione definita dall'utente (in secondi).
+Quando l'utente vuole memorizzare l'audio appena ascoltato preme un bottone e l'app memorizza un file wav con gli ultimi secondi (definiti in precedenza dall'utente).
+L'app permette di memorizzare o condividere gli audio catturati.
